@@ -1,41 +1,41 @@
 # compiled output
 /dist
-/cliente-SOAT/tmp
-/cliente-SOAT/out-tsc
+cliente-SOAT/tmp
+cliente-SOAT/out-tsc
 
 # dependencies
-/cliente-SOAT/node_modules
+cliente-SOAT/node_modules
 
 # IDEs and editors
-/cliente-SOAT/.idea
-/cliente-SOAT.project
-/cliente-SOAT.classpath
-/cliente-SOAT.c9/
-/cliente-SOAT*.launch
-/cliente-SOAT.settings/
-/cliente-SOAT*.sublime-workspace
+cliente-SOAT/.idea
+cliente-SOAT.project
+cliente-SOAT.classpath
+cliente-SOAT.c9/
+cliente-SOAT*.launch
+cliente-SOAT.settings/
+cliente-SOAT*.sublime-workspace
 
 # IDE - VSCode
-/cliente-SOAT/cliente-SOAT.vscode/*
-/cliente-SOAT/cliente-SOAT!.vscode/settings.json
-/cliente-SOAT/cliente-SOAT!.vscode/tasks.json
-/cliente-SOAT/cliente-SOAT!.vscode/launch.json
-/cliente-SOAT/cliente-SOAT!.vscode/extensions.json
+cliente-SOATcliente-SOAT.vscode/*
+cliente-SOAT/cliente-SOAT!.vscode/settings.json
+cliente-SOAT/cliente-SOAT!.vscode/tasks.json
+cliente-SOAT/cliente-SOAT!.vscode/launch.json
+cliente-SOAT/cliente-SOAT!.vscode/extensions.json
 
 # misc
-/cliente-SOAT/.sass-cache
-/cliente-SOAT/connect.lock
-/cliente-SOAT/coverage
-/cliente-SOAT/libpeerconnection.log
-/cliente-SOATnpm-debug.log
-/cliente-SOATtestem.log
-/cliente-SOAT
+cliente-SOAT/.sass-cache
+cliente-SOAT/connect.lock
+cliente-SOAT/coverage
+cliente-SOAT/libpeerconnection.log
+cliente-SOATnpm-debug.log
+cliente-SOATtestem.log
+cliente-SOAT
 # e2e
-/cliente-SOAT/e2e/*.js
-/cliente-SOAT/e2e/*.map
+cliente-SOAT/e2e/*.js
+cliente-SOAT/e2e/*.map
 
 # System Files
-/cliente-SOAT.DS_Store
-/cliente-SOATThumbs.db
+cliente-SOAT.DS_Store
+cliente-SOATThumbs.db
 
 /api-rest/node_modules
