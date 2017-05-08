@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-soat",
+  "version": "1.0.0",
+  "description": "Api REST para la app SOAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "nodemon index"
+  },
+  "author": "José Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.16.1",
+    "moment": "^2.17.1",
+    "nodemailer": "^3.1.5",
+    "jwt-simple": "^0.5.1",
+    "connect-multiparty": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
